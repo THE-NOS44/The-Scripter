@@ -19,16 +19,16 @@ echo '
               (| (.)(.) |)
 .-----------.OOOo--()--oOOO.----------.
 |                                     |
-|    Created by Team :- BG 22         |
+|      Created by Team :- BG 22       |
 | ----------------------------------- |
-|                                     |
+| Project Guide:- Mr. Puneet Aggarwal |
+|       (Assistant Professor)         |
 | ----------------------------------- |
 |    Vishal Jain (1703213123)         |
 |    Pranav Shukla (1703213070)       |
 |    Saurabh Yadav (1703213095)       |
-|                                     |
 | ----------------------------------- |
-|                                     |
+|     ABES Engineering College        |
 |                                     |
 '----------.oooO----------------------'
             (   )   Oooo.
