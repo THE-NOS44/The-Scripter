@@ -19,14 +19,14 @@ echo '
               (| (.)(.) |)
 .-----------.OOOo--()--oOOO.----------.
 |                                     |
-|    Created by Team :- VIEH GROUP    |
+|    Created by Team :- BG 22         |
 | ----------------------------------- |
-|    Visit us :- www.viehgroup.com    |
+|                                     |
 | ----------------------------------- |
-|    Kshitiz Raj (@manitorpotterk)    |
-|    Yogeshwarram Godara (@0xyogi)    |
-|  Rahul Singh Bisht (@merahulbisht1) |
-|   Vishal Jain (@VishalJ00719700)    |
+|    Vishal Jain (1703213123)         |
+|    Pranav Shukla (1703213070)       |
+|    Saurabh Yadav (1703213095)       |
+|                                     |
 | ----------------------------------- |
 |                                     |
 |                                     |
