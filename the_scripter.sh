@@ -54,36 +54,26 @@ read option
 
 if [[ $option == 1 ]]
 then
-	bash scripts/shell_stabalize.sh
-elif [[ $option == 2 ]]
-then
-	python3 scripts/Hash_Cracker.py
-elif [[ $option == 3 ]]
-then
 	echo 'Enter the hash path:'
 	read path
 	bash scripts/ssh_cracker $path
-elif [[ $option == 4 ]]
+	
+elif [[ $option == 2 ]]
 then
 	bash scripts/payloadgen.sh
-elif [[ $option == 5 ]]
+	
+if [[ $option == 3 ]]
 then
 	bash scripts/webserver.sh
-elif [[ $option == 6 ]]
+	
+elif [[ $option == 4 ]]
 then
 	bash scripts/myrecon
-elif [[ $option == 7 ]]
+	
+elif [[ $option == 5 ]]
 then
 	bash scripts/Password_Genrator.sh
-elif [[ $option == 8 ]]
-then
-	bash scripts/juice.sh
-elif [[ $option == 9 ]]
-then
-	bash scripts/add_cronjob.sh
-elif [[ $option == 10 ]]
-then
-	bash scripts/add_ssh_key.sh
+
 else
 	echo 'Not Found Start Again Boi:---'
 fi
