@@ -56,23 +56,23 @@ if [[ $option == 1 ]]
 then
 	echo 'Enter the hash path:'
 	read path
-	bash scripts/ssh_cracker $path
+	bash script/ssh_cracker $path
 	
 elif [[ $option == 2 ]]
 then
-	bash scripts/payloadgen.sh
+	bash script/payloadgen.sh
 	
 if [[ $option == 3 ]]
 then
-	bash scripts/webserver.sh
+	bash script/webserver.sh
 	
 elif [[ $option == 4 ]]
 then
-	bash scripts/myrecon
+	bash script/myrecon
 	
 elif [[ $option == 5 ]]
 then
-	bash scripts/Password_Genrator.sh
+	bash script/Password_Genrator.sh
 
 else
 	echo 'Not Found Start Again Boi:---'
