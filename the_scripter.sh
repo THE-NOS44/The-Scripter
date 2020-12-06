@@ -62,7 +62,7 @@ elif [[ $option == 2 ]]
 then
 	bash script/payloadgen.sh
 	
-if [[ $option == 3 ]]
+elif [[ $option == 3 ]]
 then
 	bash script/webserver.sh
 	
