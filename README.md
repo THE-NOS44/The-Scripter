@@ -27,7 +27,7 @@ if they are at some intermediate level.
 
 Now you will get command line option to select which script you want to run.
 
-![](Images/Main Page.jpeg)
+![](Images/MainPage.jpeg)
 
 **Lets know what these scripts are doing one by one**
 
@@ -46,7 +46,7 @@ This script will also have option for bruteforcing ssh username.
 The Payload Generator script will help to generate different types of payloads according to you.
 This Script will give options to select the type of payload and the platform for which you needed the payload.
 
-![](Images/Payload Generator.jpeg)
+![](Images/PayloadGenerator.jpeg)
 
 
 ## 3. Webserver
@@ -74,7 +74,7 @@ Password Generator is a password generation tool that will print the password of
 desired length you just need to enter the length of the password and 4 passwords will be
 printed and you can choose the password which you like the most.
 
-![](Images/Pass gen.jpeg)
+![](Images/Passgen.jpeg)
 
 
 
