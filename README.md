@@ -6,10 +6,6 @@ all other scripts. This tool will be designed in such a way so that hackers will
 interesting and easy to work with and most importantly hacker can use these individual scripts 
 without running through main script also and they can also modify scripts according to comfortability
 if they are at some intermediate level.
-
-
-
-![](images/the_scripter.jpg)
  
  
 ## INSTALLATION PROCESS
@@ -31,7 +27,7 @@ if they are at some intermediate level.
 
 Now you will get command line option to select which script you want to run.
 
-![](images/mainpage.jpg)
+![](Images/Main Page.jpeg)
 
 **Lets know what these scripts are doing one by one**
 
@@ -43,14 +39,14 @@ This script will contain code for cracking id_rsa key using John The Ripper.
 It will make id_rsa executable and crack it’s password . It will also detect id_rsa is openkey or private key .
 This script will also have option for bruteforcing ssh username.
 
-![](images/image3.jpg)
+![](Images/image3.jpg)
 
 
 ## 2. Payload Generator
 The Payload Generator script will help to generate different types of payloads according to you.
 This Script will give options to select the type of payload and the platform for which you needed the payload.
 
-![](images/image4.jpg)
+![](Images/Payload Generator.jpeg)
 
 
 ## 3. Webserver
@@ -63,14 +59,14 @@ create a webserver.
 2. Ruby
 3. PHP
 
-![](images/image5.jpg)
+![](Images/Webserver.jpeg)
 
 
 ## 4. Recon
 Recon is a simple script that will scan the whole machine stepwise  Like first it will quickly
 give results and then will perform a script scan and also start the full scan in the background.
 
-![](images/image6.jpg)
+![](Images/Recon.jpeg)
 
 
 ## 5. Password Generator
@@ -78,7 +74,7 @@ Password Generator is a password generation tool that will print the password of
 desired length you just need to enter the length of the password and 4 passwords will be
 printed and you can choose the password which you like the most.
 
-![](images/image7.jpg)
+![](Images/Pass gen.jpeg)
 
 
 
