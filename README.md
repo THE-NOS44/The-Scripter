@@ -50,9 +50,7 @@ This Script will give options to select the type of payload and the platform for
 
 
 ## 3. Webserver
-Recon is a simple script that will scan the whole machine stepwise Like first it will quickly
-give results and then will perform a script scan and also start the full scan in the
-background. Webserver script will create a web server of your choice for file transferring
+Webserver script will create a web server of your choice for file transferring
 and hosting of files. The script uses three different programming languages library to
 create a webserver.
 1. Python
