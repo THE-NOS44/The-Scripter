@@ -39,7 +39,7 @@ This script will contain code for cracking id_rsa key using John The Ripper.
 It will make id_rsa executable and crack it’s password . It will also detect id_rsa is openkey or private key .
 This script will also have option for bruteforcing ssh username.
 
-![](Images/image3.jpg)
+![](Images/SSH_Cracker.jpeg)
 
 
 ## 2. Payload Generator
