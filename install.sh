@@ -27,6 +27,7 @@ chmod +x $PWD/script/Password_Genrator.sh
 chmod +x $PWD/script/payloadgen.sh
 chmod +x $PWD/script/ssh_cracker
 chmod +x $PWD/script/webserver.sh
+chmod +x $PWD/script/Ping_Sweep.py
 
 
 
