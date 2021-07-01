@@ -21,7 +21,7 @@ echo '
 |                                     |
 |      Created by Team :- BG 22       |
 | ----------------------------------- |
-| Project Guide:- Mr. Puneet Aggarwal |
+| Project Guide:- Dr. Puneet Aggarwal |
 |       (Assistant Professor)         |
 | ----------------------------------- |
 |    Vishal Jain (1703213123)         |
@@ -46,6 +46,7 @@ echo '2.Payload Generator'
 echo '3.Webserver'
 echo '4.Recon'
 echo '5.Password Generator'
+echo '6.Ping Sweep'
 printf "${STOP}"
 echo ''
 echo 'Enter the Option :'
@@ -73,6 +74,10 @@ then
 elif [[ $option == 5 ]]
 then
 	bash script/Password_Genrator.sh
+	
+elif [[ $option == 6 ]]
+then
+	bash script/Ping_Sweep.sh
 
 else
 	echo 'Not Found Start Again Boi:---'
