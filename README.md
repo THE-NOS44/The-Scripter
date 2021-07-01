@@ -77,7 +77,7 @@ printed and you can choose the password which you like the most.
 ## 6. Ping Sweep
 Ping Sweep is a script that will list the live IP addresses in our particular network by pinging each and every IP address. It will show us the list of live IP addresses. 
 
-![](Images/Ping-Sweep.jpeg)
+![](Images/Ping-Sweep.JPG)
 
 
 
